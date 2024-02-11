@@ -2,3 +2,6 @@
 name = "test_prj"
 version = "0.1.0"
 edition = "2023_11"
+
+[crate_roots]
+test_crate = "src"
